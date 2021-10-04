@@ -1,0 +1,18 @@
+.characterCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    border: 1px solid black;
+    width: 20vw;
+    height: 40vh;
+    margin: 20px;
+
+    background-color: #81A684;
+}
+
+.characterCard__image{
+    width: 10vw;
+}
+

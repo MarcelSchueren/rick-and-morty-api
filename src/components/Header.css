@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-
+    background-color: #466060;
 }
 
 .header__image{

@@ -1,0 +1,7 @@
+#idFlexBox{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px;
+    background-color: #57886C;
+}
